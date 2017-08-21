@@ -6,6 +6,12 @@
     <Name>70-768-Ch1.database</Name>
     <FullPath>70-768-Ch1.database</FullPath>
   </Database>
+  <Dimensions>
+    <ProjectItem>
+      <Name>City.dim</Name>
+      <FullPath>City.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
   <DataSources>
     <ProjectItem>
       <Name>Wide World Importers DW.ds</Name>
