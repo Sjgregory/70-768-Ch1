@@ -23,6 +23,14 @@
       <Name>City.dim</Name>
       <FullPath>City.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Invoice.dim</Name>
+      <FullPath>Invoice.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Employee.dim</Name>
+      <FullPath>Employee.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
